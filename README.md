@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/MiqSA/singlepage)
+![GitHub](https://img.shields.io/github/license/MiqSA/singlepage)
+![GitHub language count](https://img.shields.io/github/languages/count/MiqSA/singlepage)
+![GitHub top language](https://img.shields.io/github/languages/top/MiqSA/singlepage)
+
 # Single Page com Bootstrap
 Este projeto serve como base para vários sites devido aos recursos disponíveis, como:
 
